@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://duu04fionpo2q"
+path="res://.godot/imported/coollogo_com-22176137.gif-92489d059ae1477ea725d0c01abd38dd.tres"
+
+[deps]
+
+source_file="res://coollogo_com-22176137.gif"
+dest_files=["res://.godot/imported/coollogo_com-22176137.gif-92489d059ae1477ea725d0c01abd38dd.tres"]
+
+[params]
+
+frames_per_second=30

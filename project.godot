@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="proctest"
-run/main_scene="uid://bn5l0btgtlao5"
+run/main_scene="uid://b61aoxro6wnwd"
 config/features=PackedStringArray("4.5", "Forward Plus")
 config/icon="res://icon.svg"
 
